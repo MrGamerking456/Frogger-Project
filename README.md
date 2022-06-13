@@ -1,2 +1,2 @@
 # Frogger-Project
-This project revolves around the creation of a Frogger program accomplished utilizing Eclipse with Java.
+This project entailed the creation of a Frogger program through the use of Eclipse with Java.
